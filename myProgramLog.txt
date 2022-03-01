@@ -1,0 +1,56 @@
+2022-03-01 12:41:58,166 - DEBUG - Start of program
+2022-03-01 12:41:58,167 - DEBUG - Start of factorial(5)
+2022-03-01 12:41:58,168 - DEBUG - i is 1, total is 1
+2022-03-01 12:41:58,168 - DEBUG - i is 2, total is 2
+2022-03-01 12:41:58,168 - DEBUG - i is 3, total is 6
+2022-03-01 12:41:58,169 - DEBUG - i is 4, total is 24
+2022-03-01 12:41:58,169 - DEBUG - i is 5, total is 120
+2022-03-01 12:41:58,169 - DEBUG - End of program
+2022-03-01 13:22:53,422 - DEBUG - Start of program
+2022-03-01 13:22:53,423 - DEBUG - Start of factorial(5)
+2022-03-01 13:22:53,423 - DEBUG - i is 1, total is 1
+2022-03-01 13:22:53,426 - DEBUG - i is 2, total is 2
+2022-03-01 13:22:53,427 - DEBUG - i is 3, total is 6
+2022-03-01 13:22:53,427 - DEBUG - i is 4, total is 24
+2022-03-01 13:22:53,429 - DEBUG - i is 5, total is 120
+2022-03-01 13:22:53,430 - DEBUG - End of program
+2022-03-01 13:22:57,037 - DEBUG - Start of program
+2022-03-01 13:22:57,038 - DEBUG - Start of factorial(5)
+2022-03-01 13:22:57,038 - DEBUG - i is 1, total is 1
+2022-03-01 13:22:57,040 - DEBUG - i is 2, total is 2
+2022-03-01 13:22:57,041 - DEBUG - i is 3, total is 6
+2022-03-01 13:22:57,041 - DEBUG - i is 4, total is 24
+2022-03-01 13:22:57,041 - DEBUG - i is 5, total is 120
+2022-03-01 13:22:57,043 - DEBUG - End of program
+2022-03-01 13:42:06,723 - DEBUG - Start of program
+2022-03-01 13:42:06,726 - DEBUG - Start of factorial(5)
+2022-03-01 13:42:06,726 - DEBUG - i is 1, total is 1
+2022-03-01 13:42:06,726 - DEBUG - i is 2, total is 2
+2022-03-01 13:42:06,726 - DEBUG - i is 3, total is 6
+2022-03-01 13:42:06,727 - DEBUG - i is 4, total is 24
+2022-03-01 13:42:06,727 - DEBUG - i is 5, total is 120
+2022-03-01 13:42:06,728 - DEBUG - End of program
+2022-03-01 13:42:15,440 - DEBUG - Start of program
+2022-03-01 13:42:15,441 - DEBUG - Start of factorial(5)
+2022-03-01 13:42:15,441 - DEBUG - i is 1, total is 1
+2022-03-01 13:42:15,441 - DEBUG - i is 2, total is 2
+2022-03-01 13:42:15,441 - DEBUG - i is 3, total is 6
+2022-03-01 13:42:15,441 - DEBUG - i is 4, total is 24
+2022-03-01 13:42:15,441 - DEBUG - i is 5, total is 120
+2022-03-01 13:42:15,445 - DEBUG - End of program
+2022-03-01 13:42:17,182 - DEBUG - Start of program
+2022-03-01 13:42:17,182 - DEBUG - Start of factorial(5)
+2022-03-01 13:42:17,182 - DEBUG - i is 1, total is 1
+2022-03-01 13:42:17,182 - DEBUG - i is 2, total is 2
+2022-03-01 13:42:17,183 - DEBUG - i is 3, total is 6
+2022-03-01 13:42:17,183 - DEBUG - i is 4, total is 24
+2022-03-01 13:42:17,183 - DEBUG - i is 5, total is 120
+2022-03-01 13:42:17,183 - DEBUG - End of program
+2022-03-01 13:42:22,102 - DEBUG - Start of program
+2022-03-01 13:42:22,102 - DEBUG - Start of factorial(5)
+2022-03-01 13:42:22,103 - DEBUG - i is 1, total is 1
+2022-03-01 13:42:22,103 - DEBUG - i is 2, total is 2
+2022-03-01 13:42:22,107 - DEBUG - i is 3, total is 6
+2022-03-01 13:42:22,108 - DEBUG - i is 4, total is 24
+2022-03-01 13:42:22,108 - DEBUG - i is 5, total is 120
+2022-03-01 13:42:22,109 - DEBUG - End of program
